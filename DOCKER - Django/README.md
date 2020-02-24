@@ -1,0 +1,1 @@
+Docker MySQL Nginx Gunicorn Django actualizado a 24/02/2020
